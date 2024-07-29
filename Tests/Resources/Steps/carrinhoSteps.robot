@@ -17,7 +17,7 @@ Então deverá redirecionar para a página de carrinho
     Validar o redirecionamento para a página de carrinho
 
 E os itens do carrinho deverão conter o produto
-    Validar o redirecionamento para a página de carrinho
+    Validar inclusão do item no carrinho
 
 Então o item deverá ser removido do carrinho
     Validar remoção do item no carrinho
